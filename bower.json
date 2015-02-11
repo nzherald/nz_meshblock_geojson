@@ -2,13 +2,13 @@
   "name": "nz_meshblock_geojson",
   "version": "1.0.0",
   "authors": [
-    "Caleb Tutty <caleb@prettymint.co.nz>"
+    "Caleb Tutty <caleb.tutty@nzherald.co.nz>"
   ],
   "description": "New Zealand Meshblock data as GeoJSON",
   "keywords": [
     "geojson",
-    "new",
-    "zealand"
+    "new zealand",
+    "census"
   ],
   "license": "MIT",
   "private": true,
