@@ -1,7 +1,7 @@
 nz_meshblock_geojson
 ============================
 
-Meshblocks converted to GeoJSON of Statistics New Zealand meshblocks
+Census meshblocks as used by Statistics New Zealand, converted to GeoJSON
 
 ### Use with Bower:
 
