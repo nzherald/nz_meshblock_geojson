@@ -1,4 +1,4 @@
-nz_meshblock_geojson
+nz_meshblocks_geojson
 ============================
 
 Census meshblocks as used by Statistics New Zealand, converted to GeoJSON
@@ -8,7 +8,7 @@ Census meshblocks as used by Statistics New Zealand, converted to GeoJSON
 Add the following to your bower.json:
 
 ```
-"nz_meshblock_geojson": "git://github.com/nzherald/nz_meshblock_geojson#1.0.0"
+"nz_meshblocks_geojson": "git://github.com/nzherald/nz_meshblocks_geojson#1.0.0"
 ```
 
 #### Use with bower-rails:
@@ -16,7 +16,7 @@ Add the following to your bower.json:
 Add the following to your Bowerfile:
 
 ```
-asset 'nz_meshblock_geojson', '1.0.0', github: 'nzherald/nz_meshblock_geojson'
+asset 'nz_meshblocks_geojson', '1.0.0', github: 'nzherald/nz_meshblocks_geojson'
 ```
 
 ### Contributing
